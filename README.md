@@ -1,10 +1,13 @@
 # noteE
-noteE is not just Excellent, an Apple Pencil drawing app built with native pencilkit and swiftui
+noteE is an excellent Apple Pencil drawing app built with native pencilkit and swiftui
 
 ## About noteE
   This is a Chinese program
-  Using this program should be very easy for you if you can read Chinese
-  Supports both iPhone and iPad, but not iCloud
+  This program fits you weel if you can read Chinese
+  
+  Support devices:
+  -iPhone and iPad, but not iCloud
+  
   Below is a screenshot of the app
   ![IMG_0056](https://user-images.githubusercontent.com/81460660/181457242-ae6bef9c-da2c-48e2-a0b8-d4d4e32bfa34.PNG)
   application launch page
@@ -34,13 +37,15 @@ about
 work on iphone
 
 ## plan
-  Add calculator
-  Add add photo function
-  Add recording function
+  Add `calculator`
+  Add `add photo` function
+  Add `recording` function
+  Add `backgound` funnction
+  Add `color palette` function
   ...and many, many, pull a request if there are good suggestions
 
 ## how to install
   So far you can use the ipa signing software to sign the ipa。
   I plan to put it on the appstore in the future, of course not yet。
-  If you want to download Aisi Assistant on i4.com, there is an ipa signature program in the toolbox, you can sign the ipa according to the program prompts, and you can also install it on your ipados device。
+  If you want to download Aisi Assistant on i4.com, there is an ipa signature program in the toolbox, you can sign the ipa according to the program prompts, and you can install it on your ipadOS device。
   
