@@ -38,10 +38,14 @@ work on iphone
 
 ## plan
   Add `calculator`
+  
   Add `add photo` function
+  
   Add `recording` function
+  
   Add `backgound` funnction
-  Add `color palette` function
+  
+  Add `color palette memory` function
   ...and many, many, pull a request if there are good suggestions
 
 ## how to install
