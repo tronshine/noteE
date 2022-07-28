@@ -33,7 +33,11 @@ about
 ![IMG_0099](https://user-images.githubusercontent.com/81460660/181458090-c78b3009-8ba0-49ca-862e-1f15703e6a3c.PNG)
 work on iphone
 
-
+## plan
+  Add calculator
+  Add add photo function
+  Add recording function
+  ...and many, many, pull a request if there are good suggestions
 
 ## how to install
   So far you can use the ipa signing software to sign the ipa。
